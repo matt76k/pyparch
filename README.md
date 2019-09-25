@@ -37,7 +37,7 @@ python alexnet_quantize.py
 ## Citation
 If you use our code in your research, please cite:
 
-@inproceedings{mcsoc2019,
+@inproceedings{mcsoc2019kiyama,
   title={Deep Learning Framework with Arbitrary Numerical Precision},
   author={Masato KIYAMA and Motoki Amagasaki and Masahiro Iida},
   booktitle={MCSoC 2019},
